@@ -1,0 +1,2 @@
+# IonicFirebaseApp
+IonicFirebaseApp
